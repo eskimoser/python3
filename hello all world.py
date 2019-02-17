@@ -1,2 +1,3 @@
 print("hello all world！")
-pirnt("hello second times")
+print("hello second times")
+# i don't know
